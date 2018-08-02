@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11932" started-at="2018-08-02T14:17:56Z" finished-at="2018-08-02T14:18:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11932" started-at="2018-08-02T14:17:56Z" finished-at="2018-08-02T14:18:08Z">
+      <class name="test.demoQA.HomeTest">
+        <test-method status="PASS" signature="initP()[pri:0, instance:test.demoQA.HomeTest@5e3a8624]" name="initP" is-config="true" duration-ms="2447" started-at="2018-08-02T14:17:56Z" finished-at="2018-08-02T14:17:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initP -->
+        <test-method status="PASS" signature="validationTextOnTab3Test()[pri:0, instance:test.demoQA.HomeTest@5e3a8624]" name="validationTextOnTab3Test" duration-ms="8855" started-at="2018-08-02T14:17:58Z" finished-at="2018-08-02T14:18:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validationTextOnTab3Test -->
+        <test-method status="PASS" signature="tearDownP()[pri:0, instance:test.demoQA.HomeTest@5e3a8624]" name="tearDownP" is-config="true" duration-ms="629" started-at="2018-08-02T14:18:07Z" finished-at="2018-08-02T14:18:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownP -->
+      </class> <!-- test.demoQA.HomeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
